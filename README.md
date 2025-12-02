@@ -4,15 +4,6 @@
 
 I'm a graduate student in Physics who is willing to learn about Data Analysis and Materials Science
 
-##
-
-<div>
-  <img height = "180cm" src="https://github-readme-stats.vercel.app/api?username=gabsm0&show_icons=true&theme=radical"/>
-  <img height = "180cm" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gabsm0&show_icons=true&theme=radical"/>
-</div>
-
-##
-
 ### Languages
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -21,8 +12,6 @@ I'm a graduate student in Physics who is willing to learn about Data Analysis an
 ### Tools
 
 <p align="left"> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   
 ### Contact me
