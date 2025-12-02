@@ -2,11 +2,7 @@
 
 ### About me
 
-I'm an undergraduate student in Physics who is willing to learn about Data Analysis
-
-
-- 🔭 I’m currently working on a project about numerical simulations on Stars Interiors
-- 🌱 I’m currently learning Cloud Computing and SQL 
+I'm a graduate student in Physics who is willing to learn about Data Analysis and Materials Science
 
 ##
 
